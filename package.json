@@ -1,0 +1,38 @@
+{
+  "name": "such-react-wow",
+  "version": "1.0.0",
+  "description": "A hello doge world for jamming react and a component into some other app.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cpb/such-react-wow.git"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "react",
+    "everywhere"
+  ],
+  "author": "Caleb Buxton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpb/such-react-wow/issues"
+  },
+  "homepage": "https://github.com/cpb/such-react-wow#readme",
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "webpack": "^1.12.12"
+  }
+}
